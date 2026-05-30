@@ -259,10 +259,4 @@ This project demonstrates how Deep Learning can be applied to Grammatical Error 
 
 The comparison between CNN-BiLSTM and T5-small shows the effectiveness of Transformer-based models in understanding and correcting grammatical errors, making T5-small the preferred solution for deployment.
 
----
 
-## Author
-
-NLP Graduation Project
-
-English Grammar AutoCorrector
